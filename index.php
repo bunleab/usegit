@@ -5,5 +5,6 @@
     echo $a + $b;
     function abc(){
         echo "Hi";
+        $abc;
     }
 ?>
