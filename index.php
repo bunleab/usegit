@@ -6,5 +6,6 @@
     function abc(){
         echo "Hi";
         $abc;
+        echo $abc = 4;
     }
 ?>
